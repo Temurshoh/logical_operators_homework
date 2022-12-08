@@ -10,3 +10,4 @@ def main(a,b,c):
     """
     return a<b<c
 print(main(3,4,5))
+print(main(6,4,5))
