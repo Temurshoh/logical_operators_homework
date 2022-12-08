@@ -6,5 +6,5 @@ def main(a):
     Returns:
         bool: answer
     """
-    return a>9999
+    return 100000>a>9999
 print(main(12233))
