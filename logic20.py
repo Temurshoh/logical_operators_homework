@@ -8,5 +8,8 @@ def main(n):
     Returns:
         bool: answer
     """
+    x1=n//10000
+    return x1==1 and n>=10000
+print(main(1100))
+print(main(11001))
 
-    return
